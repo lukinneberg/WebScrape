@@ -1,7 +1,7 @@
 # WebScrape
 
-The code in this file scrapes data from a realtor site. Users enter a link and House charactersists,
+The code in this file scrapes data from a realtor site. Users enter a link and House characteristics,
 previous sale information, and tax history will be scraped, cleaned, and exported to a CSV.
 
-Also included is a proxy class that allows users to change their proxy when using the selenium class to scrape data.
+Included as well as a Tableau Prep file that allows users to create cleaned data sources for Tableau/PowerBI by exporting the joined data into additional CSV's.
 
